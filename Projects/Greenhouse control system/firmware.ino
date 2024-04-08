@@ -48,7 +48,7 @@ void loop() {
     updateSerial();
     mySerial.println("AT+CMGS=\"+7908180****\"");         
     updateSerial();
-    mySerial.print("Temperature is low. Start straining!"); 
+    mySerial.print("Temperature is low. Start heating!"); 
     updateSerial();
     mySerial.write(26);
     delay(30000);

@@ -73,7 +73,7 @@ Gamedev. 3D - художник Middle
 
 + Создание сцены и рендеринг
 
-[Ссылка на проект](Projects/Greenhouse%20control%20system/Project.md)
+[Ссылка на проект](Projects/Mech/Project.md)
 
 **3D-печать**
 
