@@ -1,6 +1,6 @@
 # Тихонов Владимир
 
-## Embedded developer
+### Embedded developer
 \
 Дата рождения: 29.08.2002
 
@@ -75,7 +75,8 @@ Gamedev. 3D - художник Middle
 
 [Ссылка на проект](Projects/Greenhouse%20control%20system/Project.md)
 
-## 3D-печать
+**3D-печать**
+
 Разработка и печать трехмерных моделей. 
 
 Стек ПО: Cura, FreeCAD, Blender. Работал с материалами: ABS, PLA, PETG, TPU.
